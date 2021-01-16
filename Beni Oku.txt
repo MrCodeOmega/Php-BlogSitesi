@@ -1,0 +1,20 @@
+Kodları görebilmek ve çalıştırmak için Notepad++ programına ihtiyacınız vardır.
+
+Projeyi çalıştırmadan önce phpmyadmin ve apache server kurulu olduğundan emin olunuz.
+
+Bu proje Apache24 destekli yazılmıştır.
+
+Projeyi çalıştırmadan önce www klasöründekileri apacheyi kurduğunuz bölümdeki www klasörünün altına atınız.
+
+Veritabanı dosyalarını ise sırasıyla ; AppServ\MySQL\data klasörünün altına dosya olarak atınız.
+
+
+Projeye ulaşmak www klasöründeki ayar.php den kullanıcı adı ve şifreyi kendi phpmyadmin kullanıcı adı ve şifreniz yapmalısınız.
+
+Ayrıca projeye girdiğinizde admin kullanıcı adı ve şifresi : mahmut    1234 
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+BU PROJENİN BÜTÜN KODLARI CODE 0 MEGA TARAFINDAN ISSIZ BİR MEKANDA YAZILMIŞTIR.
+//////////////////////////////////////////////////////////////////////////////
